@@ -1,0 +1,8 @@
+problem1
+30,10,.
+point,int,0,1
+point,float,3.33,6.23
+point,int,0,1,4
+point,float,3.33,6.23,2.22
+rectangle,int,0,1,4,5
+rectangle,float,3.33,6.23,2.22,0.0
